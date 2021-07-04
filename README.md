@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arvind Kumar
-- 👀 I’m interested in Game Development and Creative Visual Projects
-- 🌱 I’m currently learning Game Programming
-- 💞️ I’m looking to collaborate on any project I feel confident.
+- 👀 Interested in Game Development and Creative Visual Projects
+- 🌱 Currently learning Game Programming
+- 💞️ Looking to collaborate on any project I feel confident.
 - 📫 Reach me at @lyricmation on Instagram 
 
 <!---
