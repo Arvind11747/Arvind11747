@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Arvind Kumar
-- 👀 Interested in Game Development and Creative Visual Projects
-- 🌱 Currently learning Game Programming
-- 💞️ Happy to work on open-source projects!
-- 📫 Reach me at @lyricmation on Instagram 
+## Hello There!
+
+I'm a game developer from Hyderabad, India, with around 2 years of experience as a game programmer across various programming languages and game engines.
+
+My passion has been always to create something worth the experience within an array of mediums such as art, motion design, music or my favorite - video games!
+
+My strengths are in my approch to understand and solve problems in a creative and effective way, I excel at coming up with solutions which are innovative and reliable.
+
+Curently working as a Junior Game Programmer for Voidpeak Games.
+
+I write about my findings and experiences at my [personal blog][1].
+
+Want to look at my works in detail? [Have a look at my portfolio][2]!
 
 <!---
 Arvind11747/Arvind11747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[1]: https://blog.arvindg.com
+[2]: https://arvindkumar.itch.io
