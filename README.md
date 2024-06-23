@@ -12,6 +12,8 @@ I write about my findings and experiences at my [personal blog][1].
 
 Want to look at my works in detail? [Have a look at my portfolio][2]!
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arvind11747&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Arvind11747"/> </p>
+
 <!---
 Arvind11747/Arvind11747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
